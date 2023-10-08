@@ -1,1 +1,1 @@
-# python_arduino_serial_comm
+# hand gesture recognition using esp to actuate number seen by opencv
